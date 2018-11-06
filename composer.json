@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": "~3.2",
+		"silverstripe/framework": "~3.5",
 		"itsgoingd/clockwork": "~1.6"
 	},
 	"extra": {
